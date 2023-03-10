@@ -51,7 +51,7 @@ nav ul{
     height: 60px;
 }
 nav li{
-    color: rgb(216, 18, 216);
+    color: rgb(34, 8, 34);
     cursor: pointer;
     flex: 1;
     padding: 10px;
@@ -62,7 +62,7 @@ nav ul li p{
     margin: 2px 0;
 }
 nav ul li:hover{
-    color:rgb(24, 221, 228);
+    color:rgb(241, 245, 245);
 } 
 nav ul li.active{
     color: rgb(158, 108, 214);
